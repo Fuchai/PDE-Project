@@ -5,7 +5,7 @@ This repo contains the code I used for this project. The purpose of the project 
 The Model assumes no radial diffusion. Dirichlet boundary condition.
 
 ## What does each file do?
-This is all the code I have in the folder, and some of them are not used. The code is not well documented. I just needed to finish the project ASAP.
+These are all the code files I have in the my working directory, and some of them are not used. The code is not well documented. I just needed to finish the project ASAP.
 
 The main code files are:
 
