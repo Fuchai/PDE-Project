@@ -2,6 +2,7 @@
 PDE Project for MATH 452
 
 This repo contains the code I used for this project. The purpose of the project is to investigate how a wood log dries.
+
 The Model assumes no radial diffusion. Dirichlet boundary condition.
 
 ## What does each file do?
@@ -28,6 +29,9 @@ With data generated, plot different sizes.
 
 ## Notes on settings
 I saved all the files on desktop "~/Desktop/PDE\ Project"
+
 The 2d numerical methods generate huge files like 2GB each. Make sure you have storage space.
+
 Running the code consumes a lot of memory space. Not sure how much, but on my computer it once consumed 40GB of memory and virtual memory.
+
 All Parallel codes run with all the cores on your computer but one. It will slow your computer visibly.
