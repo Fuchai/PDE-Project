@@ -1,5 +1,5 @@
 ## =============================================================================
-## The parallel processing code for quarter-split wood moisture diffusion
+## The parallel processing code for half-split wood moisture diffusion
 ## =============================================================================
 
 require(reshape2)
