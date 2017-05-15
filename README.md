@@ -8,21 +8,22 @@ The Model assumes no radial diffusion. Dirichlet boundary condition.
 This is all the code I have in the folder, and some of them are not used. The code is not well documented. I just needed to finish the project ASAP.
 
 The main code files are:
-###FiniteSumFull.R
+
+### FiniteSumFull.R
 Partial sum of analytical solution for full wood log. Numerical method with reacTran package.
-###FullParallel.R
+### FullParallel.R
 The parallel processing code for unsplit wood moisture diffusion. Numerical method with reacTran package.
-###ParallelSplit.R
+### ParallelSplit.R
 The parallel processing code for half-split wood moisture diffusion. Numerical method with reacTran package.
-###ParallelQuarter.R
+### ParallelQuarter.R
 The parallel processing code for quarter-split wood moisture diffusion. Numerical method with reacTran package.
-###Plotlywave.R
+### Plotlywave.R
 Using the data genreated by FullParalel.R, visualize the moisture change in a unsplit log. Ripple pattern. Did not actually use plot.ly in the end.
-###comparisonplot.R
+### comparisonplot.R
 With all data generated, plot different splits.
-###dimensionvariant.R
+### dimensionvariant.R
 Vary the dimensions of the logs and generate data.
-###sizecomparison.R
+### sizecomparison.R
 With data generated, plot different sizes.
 
 ## Notes on settings
